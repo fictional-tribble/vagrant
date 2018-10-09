@@ -2,7 +2,7 @@
 
 * Website: [https://www.vagrantup.com/](https://www.vagrantup.com/)
 * Source: [https://github.com/hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-* [![Gitter chat](https://badges.gitter.im/mitchellh/vagrant.png)](https://gitter.im/mitchellh/vagrant)
+* [![Gitter chat](https://badges.gitter.im/mitchellh/vagrant.png)](https://gitter.im/mitchellh/vagrant) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/vagrant.svg)](https://www.staging.guardrails.io)
 * Mailing list: [Google Groups](https://groups.google.com/group/vagrant-up)
 * IRC: #vagrant on freenode.org
 
